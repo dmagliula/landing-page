@@ -1,1 +1,2 @@
 # landing-page
+This will be a second major project on creating a landing page. I want to try and use some of my code from the recipe project and create a better webpage. I will look to focus mainly on making sure I understand all of the css and look to input newer ideas than what is only in the instructions.
