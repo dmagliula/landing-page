@@ -55,3 +55,44 @@ h1 {
     justify-content: space-between;
 }
 
+.info img {
+    width: 150px;
+    height: 150px;
+}
+
+.pane-one h1 {
+    font-size: 38px;
+    color: #1f2937;
+}
+
+.pane-one {
+    text-align:center;
+    padding: 35px;
+}
+
+.panels {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 35px;
+    justify-content: space-around;
+}
+
+.info {
+    max-width: 200px;
+}
+.pane-two{
+    background: #e5e7eb;
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+    text-align: center;
+    padding: 35px;
+}
+
+.pane-two .author {
+    color: #1f2937;
+    margin-top: -20px;
+    font-size: 26px;
+    font-weight: 600;
+    text-align: right;
+}
